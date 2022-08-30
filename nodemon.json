@@ -1,0 +1,7 @@
+{
+    "events": {
+        "restart": "sudo kill-port 4001",
+        "crash": "sudo kill-port 4001"
+    },
+    "delay": "1000"
+}
